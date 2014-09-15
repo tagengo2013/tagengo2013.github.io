@@ -65,8 +65,8 @@
 
 **3 ことば（日本語）と文化**
 
-| 3-1-1　:download:`挨拶１(：いろいろな言語から考える世界の挨拶) <../download/.docx>`
-| 3-1-2　:download:`挨拶２(：感謝とお詫びのことば：すみません＝I’m sorry? or Thank you?)  <../download/.docx>`
+| 3-1-1　:download:`挨拶１(：いろいろな言語から考える世界の挨拶) <../download/3-1-1.docx>`
+| 3-1-2　:download:`挨拶２(：感謝とお詫びのことば：すみません＝I’m sorry? or Thank you?)  <../download/3-1-2.docx>`
 | 3-2　多様な文字
 | 3-2-1　:download:`日本語の文字は何種類？  <../download/.docx>`
 | 3-2-2　:download:`カタカナは外来語？　擬態語・擬声語と文字<../download/.docx>`
@@ -126,7 +126,7 @@
 
 **協力者**
 
-:とよなか国際交流協会:	4-2、4-4
+:とよなか国際交流協会: 4-2、4-4
 :Jinae:	「25の音」データ収集協力
 :Erdenechu luun Khongorzul:	「25の音」データ収集協力
 :mayun kiki:	「25の音」データ収集協力	マレウレウ http://www.tonkori.com
