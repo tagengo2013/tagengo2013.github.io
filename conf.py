@@ -17,13 +17,13 @@ tagline = ''
 description = 'Home Page'
 
 # Change this to your name
-author = 'TGTB'
+author = u'多言語・多文化教材研究'
 
 # Change this to your copyright string
 copyright = '2013, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://127.0.0.1/blog/html/'
+website = 'http://http://tagengo2013.github.io/'
 
 # **************************************************************
 # More tweaks you can do
